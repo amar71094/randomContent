@@ -1,2 +1,2 @@
 # randomContent
-This Repository contains Code snippets to explains radndom topics 
+This Repository contains Code snippets to explains random topics 
